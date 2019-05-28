@@ -27,7 +27,7 @@ becomes
 ## Tools
 * Twilio SMS
 * Flask
-* AC Transit API
+* [AC Transit API](http://api.actransit.org/transit/)
 
 ## Deployment
 * Heroku
