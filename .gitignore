@@ -4,3 +4,6 @@ token.txt
 bin/*
 lib/*
 include/*
+
+.gitignore
+heroku_url.txt
