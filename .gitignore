@@ -1,0 +1,6 @@
+__pycache__
+old/*
+token.txt
+bin/*
+lib/*
+include/*
